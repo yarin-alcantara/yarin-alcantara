@@ -4,19 +4,19 @@
 
  🙋 Eu sou a Yarin 
 
-👩‍🎓 Sou formada em Ciências Contabeis
+👩‍🎓 Sou formada em Ciências Contábeis
 
 📚 Estou em transição de carreira 
 
 👩‍💻 Atualmente sou estudante de Java Full Stack na Generation Brasil (amando! ❤️)
 
-😍 Sempre fui uma entusiasta por tudo que envolve tecnologias
+😍 Sempre fui uma entusiasta por tudo que envolve tecnologia
 
 🌌 Sou apaixonada pela busca do conhecimento! 
 
-🌎 Minha meta é conhecer o maior numero de países
+🌎 Minha meta é conhecer o maior número possível de países
 
-✈️ Viajar e conhecer novas culturas são meu hobby favorito
+✈️ Viajar e conhecer novas culturas são meu hobby favoritos
 
 
 
@@ -29,6 +29,10 @@ ________________________________________________________________________________
 ![MYSQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![EXCEL Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![POWER POINT Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+_________________________________________________________________________________________________________________________________________________________________________________
+
+![Yarin GitHub stats](https://github-readme-stats.vercel.app/api?username=yarin-alcantara&show_icons=true&theme=nightowl)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
