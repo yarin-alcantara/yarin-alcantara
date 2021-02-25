@@ -1,15 +1,6 @@
 # Hi there 👋😊
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yarin-alcantara-195547192/)](https://www.linkedin.com/in/yarin-alcantara-195547192/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/yarinalcantara/)](https://www.instagram.com/yarinalcantara/)
-_________________________________________________________________________________________________________________________________________________________________________________
-
-![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![MYSQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![EXCEL Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![POWER POINT Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-_________________________________________________________________________________________________________________________________________________________________________________
 
  🙋 Eu sou a Yarin 
 
@@ -31,6 +22,15 @@ ________________________________________________________________________________
 
 🖱️ Aqui você vai encontrar alguns dos meus projetos! ✨ Enjoy ✨
 
+_________________________________________________________________________________________________________________________________________________________________________________
+
+![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![MYSQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![EXCEL Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![POWER POINT Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+
+_________________________________________________________________________________________________________________________________________________________________________________
 
 
 - 📫 How to reach me: yarin_alcantara@hotmail.com
