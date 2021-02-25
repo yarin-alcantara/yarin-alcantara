@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yarin-alcantara-195547192/)](https://www.linkedin.com/in/yarin-alcantara-195547192/)
 [![HitCount](http://hits.dwyl.com/yarin-alcantara/yarin-alcantara.svg)](http://hits.dwyl.com/yarin-alcantara/yarin-alcantara)
