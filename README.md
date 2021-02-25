@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![HitCount](http://hits.dwyl.com/yarin-alcantara/yarin-alcantara.svg)](http://hits.dwyl.com/yarin-alcantara/yarin-alcantara)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarin-alcantara&layout=compact)](https://github.com/yarin-alcantara)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarin-alcantara&show_icons=true&theme=nightowl)
