@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
     ![](http://media.indiatimes.in/media/content/2015/Feb/insta_1423480591.gif)
                                              
-[![HitCount](http://hits.dwyl.com/yarin-alcantara/yarin-alcantara.svg)](http://hits.dwyl.com/yarin-alcantara/yarin-alcantara)
+<!--[![HitCount](http://hits.dwyl.com/yarin-alcantara/yarin-alcantara.svg)](http://hits.dwyl.com/yarin-alcantara/yarin-alcantara)-->
 
 
 <!--
