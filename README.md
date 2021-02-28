@@ -36,6 +36,9 @@ ________________________________________________________________________________
 
 ![Yarin GitHub stats](https://github-readme-stats.vercel.app/api?username=yarin-alcantara&show_icons=true&theme=nightowl)
 
+
+[![Yarin Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarin-alcantara&layout=compact)](https://github.com/yarin-alcantara/github-readme-stats)
+
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
