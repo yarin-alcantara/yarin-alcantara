@@ -1,5 +1,5 @@
 # Hi there 👋😊
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yarin-alcantara-195547192/)](https://www.linkedin.com/in/yarin-alcantara-195547192/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yarin-alcantara-195547192/)](https://www.linkedin.com/in/yarin-alcantara/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/yarinalcantara/)](https://www.instagram.com/yarinalcantara/)
 
  🙋 Eu sou a Yarin 
