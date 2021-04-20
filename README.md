@@ -8,7 +8,7 @@
 
 📚 Estou em transição de carreira 
 
-👩‍💻 Atualmente sou estudante de Java Full Stack na Generation Brasil (amando! ❤️)
+👩‍💻 Atualmente sou formada como Desenvolvedora Java Full Stack pela Generation Brasil (❤️)
 
 😍 Sempre fui uma entusiasta por tudo que envolve tecnologia
 
