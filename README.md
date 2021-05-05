@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-<!--![Yarin GitHub stats](https://github-readme-stats.vercel.app/api?username=yarin-alcantara&show_icons=true&theme=nightowl)-->
+![Yarin GitHub stats](https://github-readme-stats.vercel.app/api?username=yarin-alcantara&show_icons=true&theme=nightowl)
 
 
 [![Yarin Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yarin-alcantara&layout=compact)](https://github.com/yarin-alcantara/github-readme-stats)
@@ -49,7 +49,7 @@ ________________________________________________________________________________
 
     ![](http://media.indiatimes.in/media/content/2015/Feb/insta_1423480591.gif)
                                              
-<!--[![HitCount](http://hits.dwyl.com/yarin-alcantara/yarin-alcantara.svg)](http://hits.dwyl.com/yarin-alcantara/yarin-alcantara)-->
+<!--[![HitCount](http://hits.dwyl.com/yarin-alcantara/yarin-alcantara.svg)](https://github.com/yarin-alcantara)-->
 
 
 <!--
