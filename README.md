@@ -14,8 +14,6 @@
 
 🌌 Sou apaixonada pela busca do conhecimento! 
 
-🌎 Minha meta é conhecer o maior número possível de países
-
 ✈️ Viajar e conhecer novas culturas são meus hobbys favoritos
 
 
