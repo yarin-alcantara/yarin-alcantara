@@ -4,17 +4,19 @@
 
  🙋 Eu sou a Yarin 
 
-<!--👩‍🎓 Sou formada em Ciências Contábeis-->
+👩‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas
 
-<!--📚 Estou em transição de carreira-->
+📚 Sou formada em Ciências Contábeis
 
-👩‍💻 Sou formada como Desenvolvedora Java Full Stack pela Generation Brasil (❤️)
+👩‍💻 Conclui o curso de Desenvolvedora Java FullStack pela Generation Brasil (❤️)
 
-😍 Sempre fui uma entusiasta por tudo que envolve tecnologia
+😍 Sempre gostei de tudo que envolve tecnologia
 
-🌌 Sou apaixonada pela busca do conhecimento! 
+🌌 Sou apaixonada pela busca do conhecimento!
 
-✈️ Viajar e conhecer novas culturas são meus hobbys favoritos
+💻 Em busca da 1ª oportunidade de trabalho como Desenvolvedora
+
+<!--✈️ Viajar e conhecer novas culturas são meus hobbys favoritos-->
 
 
 🖱️ Aqui você vai encontrar alguns dos meus projetos! ✨ Enjoy ✨
