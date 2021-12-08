@@ -14,7 +14,6 @@
 
 🌌 Sou apaixonada pela busca do conhecimento!
 
-💻 Em busca da 1ª oportunidade de trabalho como Desenvolvedora
 
 <!--✈️ Viajar e conhecer novas culturas são meus hobbys favoritos-->
 
