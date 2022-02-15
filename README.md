@@ -2,25 +2,24 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yarin-alcantara-195547192/)](https://www.linkedin.com/in/yarin-alcantara/)
 
 
- 🙋 Eu sou a Yarin 
+🙋🏽‍♀️  Eu sou a Yarin 
 
-👩‍🎓 Estou cursando Análise e Desenvolvimento de Sistemas
+👩🏽‍🎓  Estou cursando Análise e Desenvolvimento de Sistemas
 
-📚 Sou formada em Ciências Contábeis
+📚  Sou formada em Ciências Contábeis
 
-👩‍💻 Conclui o curso de Desenvolvedora Java FullStack pela Generation Brasil (❤️)
+👩🏽‍💻  Conclui o curso de Desenvolvedora Java FullStack pela Generation Brasil (❤️)
 
-😍 Sempre gostei de tudo que envolve tecnologia
+😍  Sempre gostei de tudo que envolve tecnologia
 
-🌌 Sou apaixonada pela busca do conhecimento!
+🌌  Sou apaixonada pela busca do conhecimento!
 
-🖱️ Aqui você vai encontrar alguns dos meus projetos! ✨ Enjoy ✨
+🖱️  Aqui você vai encontrar alguns dos meus projetos! ✨ Enjoy ✨
 
 _________________________________________________________________________________________________________________________________________________________________________________
-
+![ANDROID Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![KOTLIN Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SPRING Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SWAGGER Badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![MYSQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,9 +29,11 @@ ________________________________________________________________________________
 ![VUE Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![VUETIFY Badge](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![TYSCRIPT Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NODEJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<!--![NODEJS Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![VS CODE Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![ECLIPSE Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![SPRING Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SWAGGER Badge](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)-->
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
