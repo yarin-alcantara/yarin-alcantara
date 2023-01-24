@@ -8,7 +8,7 @@
 
 📚  Sou formada em Ciências Contábeis
 
-👩🏽‍💻  Conclui o curso de Desenvolvedora Java FullStack pela Generation Brasil (❤️)
+📱  Dev mobile/Android (❤️)
 
 😍  Sempre gostei de tudo que envolve tecnologia
 
